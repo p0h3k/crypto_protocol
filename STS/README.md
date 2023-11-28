@@ -25,4 +25,4 @@
 
 
 ## Запуск
-python3 program.py
+`python3 program.py`
